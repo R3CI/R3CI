@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm R3CI</h1>
-<h3 align="center">Im just a random person for poland that codes useless shit 4fun</h3>
+
+<div align="center">
+     <img  src="https://i.pinimg.com/originals/ca/ca/37/caca37e52059795473bbeef00343faae.gif">
+</div>
+
+<h3 align="center">Im just a random guy for poland that codes useless shit 4fun</h3>
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=r3ci&label=Profile%20views&color=0e75b6&style=flat" alt="r3ci" /> </p>
+
 
  🔭 I’m currently working on **a discord raid selfbot**
 
