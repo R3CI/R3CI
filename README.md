@@ -8,7 +8,7 @@
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=r3ci&label=Profile%20views&color=64007d&style=flat" alt="r3ci" /> </p>
 
 
- 🔭 I’m currently working on **a discord raid selfbot**
+ 🔭 I’m currently working on **a grabber and a discord selfbot**
 
  🌱 I’m currently learning **Python**
 
