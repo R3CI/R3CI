@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm R3CI</h1>
-
+<h1 align="center">TERMED NEW DSC: r3ci. </h1>
 <h1 align="center">Im just a random guy for poland that codes useless shit 4fun</h3>
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=r3ci&label=Profile%20views&color=64007d&style=flat" alt="r3ci" /> </p>
 
