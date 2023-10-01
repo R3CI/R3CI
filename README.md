@@ -3,12 +3,10 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm R3CI</h1>
-<h1 align="center">TERMED NEW DSC: r3ci. </h1>
+<h1 align="center">TERMED NEW DSC -> r3ci. </h1>
+<h1 align="center">NEW DSC SERVER -> https://discord.gg/UgtPBfDWRd </h1>
 <h1 align="center">Im just a random guy for poland that codes useless shit 4fun</h3>
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=r3ci&label=Profile%20views&color=64007d&style=flat" alt="r3ci" /> </p>
-
- 🌱 I’m currently learning **Python**
-
 
 <h1 align="center">
 <a href="https://www.youtube.com/c/r3ci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r3ci" height="30" width="40" /></a>
