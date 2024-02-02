@@ -11,7 +11,10 @@
 
 <h1 align="center"> 
      <img src="https://img.shields.io/discord/1157405821450338334?color=darkred" /> 
-     <img src="https://komarev.com/ghpvc/?username=r3ci&label=Profile%20views&color=80000d&style=flat" alt="r3ci" />
+     <img src="https://komarev.com/ghpvc/?username=r3ci&label=Profile%20views&color=80000d&style=flat" />
+     <img src="https://img.shields.io/github/followers/r3ci?style=flat&color=darkred" />
+     <img src="https://img.shields.io/github/stars/r3ci?style=flat&color=darkred" />
+     <img src="https://img.shields.io/github/followers/r3ci?style=flat&color=darkred" />
 
 <h1 align="center">
 <a href="https://www.youtube.com/channel/UC21Yglb5Wtr5p_pFQD6u1DA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r3ci" height="30" width="40" /></a>
