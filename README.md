@@ -6,7 +6,7 @@
   R3CI
 </p>
 <p align="center">
-  Hi im some random guy that just likes to code random shit (sometimes)
+  Hi im some random guy that just likes to code random shit, coding is just a hobby and im still not too good at it
 </p>
 
 <h1 align="center"> 
