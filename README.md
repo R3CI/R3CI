@@ -1,22 +1,21 @@
 <p align="center">
-  <img src="https://i.imgur.com/JVVSzQw.png" width="200">
+  <img src="https://i.imgur.com/RsPFkXE.png" width="200">
 </p>
 
 <p align="center">
   R3CI
 </p>
 <p align="center">
-  Hi im some random guy that just likes to code random shit, coding is just a hobby and im still not too good at it
+  Hi, Im some random guy that just likes to code random shit. Coding is just a hobby and Im still learning
 </p>
 
-<h1 align="center"> 
-     <img src="https://img.shields.io/discord/1157405821450338334?color=darkred" /> 
-     <img src="https://komarev.com/ghpvc/?username=r3ci&label=Profile%20views&color=80000d&style=flat" />
-     <img src="https://img.shields.io/github/followers/r3ci?style=flat&color=darkred" />
-     <img src="https://img.shields.io/github/stars/r3ci?style=flat&color=darkred" />
-     <img src="https://img.shields.io/github/followers/r3ci?style=flat&color=darkred" />
-
-<h1 align="center">
-<a href="https://www.youtube.com/channel/UC21Yglb5Wtr5p_pFQD6u1DA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r3ci" height="30" width="40" /></a>
-<a href="https://discord.gg/moonerv2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="auaX4vqZra" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=r3ci&label=Profile%20views&color=red&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/R3CI?color=darkred&style=for-the-badge&logo=github&label=Follows"/>
+  <img src="https://img.shields.io/github/stars/R3CI?color=darkred&style=for-the-badge&logo=github&label=Stars"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R3CI&show_icons=true&theme=transparent&hide_border=true&text_color=8B0000&title_color=8B0000&icon_color=8B0000" alt="Stats">
+</p>
+
