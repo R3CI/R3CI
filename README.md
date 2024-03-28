@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/1125147653970337896.png">
+</p>
+
+<p align="center">
   R3CI
 </p>
 <p align="center">
