@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://imgur.com/UnUiZi2.png" width="200">
+  <img src="https://imgur.com/cZp6Dqn.png" width="200">
+</p>
+
+<p align="center">
+  R3CI
 </p>
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/1125147653970337896.png">
 </p>
 
-<p align="center">
-  R3CI
-</p>
 <p align="center">
   Hi, Im some random guy that just likes to code random shit. Coding is just a hobby and Im still learning
 </p>
