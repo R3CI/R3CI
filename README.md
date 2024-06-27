@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Hi, Im some random guy that just likes to code random shit. Coding is just a hobby and Im still learning
+  Hi, Im some random guy that just likes to code random shit. Coding is just a hobby
 </p>
 
 <p align="center">
