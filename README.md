@@ -1,27 +1,21 @@
+```
+                                                           ________        .__ 
+                                                     ______\_____  \  ____ |__|
+                                                     \_  __ \_(__  <_/ ___\|  |
+                                                      |  | \/       \  \___|  |
+                                                      |__| /______  /\___  >__|
+                                                                  \/     \/    
+```
+
 <div align="center">
-<pre><code>________  ________  ________  ___     
-|\   __  \|\_____  \|\   ____\|\  \    
-\ \  \|\  \|____|\ /\ \  \___|\ \  \   
- \ \   _  _\    \|\  \ \  \    \ \  \  
-  \ \  \\  \|  __\_\  \ \  \____\ \  \ 
-   \ \__\\ _\ |\_______\ \_______\ \__\
-    \|__|\|__|\|_______|\|_______|\|__|
-</code></pre>
-
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/1287914810821836843.png">
-</p>
-
-<p align="center">
-  Hi, Im some random guy that just likes to code random shit. Coding is just a hobby
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=r3ci&label=Profile%20views&color=000000&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/R3CI?color=black&style=for-the-badge&logo=github&label=Follows"/>
   <img src="https://img.shields.io/github/stars/R3CI?color=black&style=for-the-badge&logo=github&label=Stars"/>
-</p>
+ 
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=R3CI&data=followers,repositories,stars,commits&theme=rgb">
+  <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R3CI&show_icons=true&theme=transparent&hide_border=true&text_color=CCCCCC&title_color=CCCCCC&icon_color=CCCCCC" alt="Stats">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,go,json&theme=rgb&includeNames=true">
+  <br>
+  
 </p>
