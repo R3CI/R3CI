@@ -23,19 +23,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 02 August 2025
+From: 07 March 2025 - To: 03 August 2025
 
-Total Time: 580 hrs 2 mins
+Total Time: 588 hrs 17 mins
 
-Python                     461 hrs 5 mins  ███████████████████▓░░░░░   78.18 %
-HTML                       62 hrs 44 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-Text                       16 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Go                         12 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Other                      9 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Markdown                   6 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Batchfile                  6 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-JSON                       5 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-JavaScript                 5 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python                     469 hrs 1 min   ███████████████████▓░░░░░   78.43 %
+HTML                       62 hrs 44 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Text                       16 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Go                         12 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Other                      9 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Markdown                   6 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Batchfile                  6 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+JSON                       5 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JavaScript                 5 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 CSS                        1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
