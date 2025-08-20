@@ -23,17 +23,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 17 August 2025
+From: 07 March 2025 - To: 18 August 2025
 
-Total Time: 251 hrs 5 mins
+Total Time: 251 hrs 57 mins
 
-Python                     206 hrs         ████████████████████▒░░░░   81.05 %
-HTML                       25 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Python                     206 hrs 52 mins ████████████████████▒░░░░   81.11 %
+HTML                       25 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
 Text                       4 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 Go                         4 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Other                      3 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Other                      3 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 Markdown                   2 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-JavaScript                 2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JavaScript                 2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 JSON                       1 hr 43 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 CSS                        1 hr 2 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 INI                        44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
