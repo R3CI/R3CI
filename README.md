@@ -23,20 +23,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 31 August 2025
+From: 07 March 2025 - To: 01 September 2025
 
-Total Time: 287 hrs 59 mins
+Total Time: 289 hrs 7 mins
 
-Python                     235 hrs 15 mins ████████████████████▒░░░░   80.82 %
-HTML                       27 hrs 29 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Text                       5 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Python                     236 hrs 20 mins ████████████████████▒░░░░   80.87 %
+HTML                       27 hrs 29 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Text                       5 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 Go                         4 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 Markdown                   3 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Other                      3 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Other                      3 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 JSON                       2 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-JavaScript                 2 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-PowerShell                 2 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-CSS                        1 hr 2 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JavaScript                 2 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+PowerShell                 2 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+TOML                       1 hr 4 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
