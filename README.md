@@ -23,20 +23,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 20 September 2025
+From: 07 March 2025 - To: 22 September 2025
 
-Total Time: 305 hrs 6 mins
+Total Time: 310 hrs 33 mins
 
-Python                     246 hrs 35 mins ████████████████████░░░░░   79.99 %
-HTML                       30 hrs 53 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-Text                       6 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Go                         4 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Markdown                   3 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Other                      3 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JSON                       3 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JavaScript                 2 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-PowerShell                 2 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Batchfile                  1 hr 36 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Python                     250 hrs         ████████████████████░░░░░   79.69 %
+HTML                       31 hrs 18 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Text                       6 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Go                         4 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+PowerShell                 3 hrs 41 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Markdown                   3 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Other                      3 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JSON                       3 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+JavaScript                 2 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Batchfile                  1 hr 36 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
