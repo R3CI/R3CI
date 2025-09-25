@@ -23,13 +23,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 22 September 2025
+From: 07 March 2025 - To: 23 September 2025
 
-Total Time: 310 hrs 33 mins
+Total Time: 310 hrs 51 mins
 
-Python                     250 hrs         ████████████████████░░░░░   79.69 %
-HTML                       31 hrs 18 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-Text                       6 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Python                     250 hrs 19 mins ████████████████████░░░░░   79.71 %
+HTML                       31 hrs 18 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+Text                       6 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 Go                         4 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 PowerShell                 3 hrs 41 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 Markdown                   3 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
