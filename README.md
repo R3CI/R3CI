@@ -13,14 +13,14 @@ pip install opsec
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 23 November 2025
+From: 07 March 2025 - To: 24 November 2025
 
-Total Time: 400 hrs 7 mins
+Total Time: 400 hrs 46 mins
 
-Python                     323 hrs 48 mins ████████████████████░░░░░   80.27 %
-HTML                       37 hrs 6 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Python                     324 hrs 27 mins ████████████████████░░░░░   80.30 %
+HTML                       37 hrs 6 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 Text                       9 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-PowerShell                 7 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+PowerShell                 7 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 JSON                       5 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 Go                         4 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 Markdown                   3 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
