@@ -13,7 +13,7 @@ pip install opsec
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 04 February 2026
+From: 07 March 2025 - To: 05 February 2026
 
 Total Time: 520 hrs 3 mins
 
