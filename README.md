@@ -6,9 +6,6 @@
                                                       |__| /______  /\___  >__|
                                                                   \/     \/    
 ```
-```
-pip install opsec
-```
 
 <!--START_SECTION:waka-->
 
