@@ -12,7 +12,7 @@ not active much anymore if u need something urgent make a issue on g4raid-lite r
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 10 October 2026
+From: 07 March 2025 - To: 11 October 2026
 
 Total Time: 670 hrs 12 mins
 
