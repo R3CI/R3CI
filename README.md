@@ -1,4 +1,4 @@
-not active much anymore if u need something urgent make a issue on g4raid-lite repo
+quit might comeback in a couple
 
 ```
                                                            ________        .__ 
